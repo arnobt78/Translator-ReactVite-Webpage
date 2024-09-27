@@ -1,4 +1,5 @@
 
+![Screenshot 2024-09-27 at 17 44 15](https://github.com/user-attachments/assets/3a0e60ff-62d8-4e75-b8f4-8ed2ea6e365a) ![Screenshot 2024-09-27 at 17 46 41](https://github.com/user-attachments/assets/66f748ba-256c-4f95-8c4e-c0c1d4665859)
 
 ## Translator-ReactVite-Webpage
 
